@@ -1,7 +1,8 @@
 ---
-title: "Begin"
+title: "index.Rmd"
 author: "Matt Rechtien"
 date: "8/25/2021"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
