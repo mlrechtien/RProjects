@@ -1,11 +1,11 @@
 name: "begin"
 output_dir: "docs"
 navbar:
-  title: "Begin"
+  title: "MattR"
   left:
   - text: "Home"
     href: index.html
-  - text: "Next"
+  - text: "Begin"
     href: Begin.html
 output:
   html_document:
