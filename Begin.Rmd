@@ -1,7 +1,5 @@
 ---
 title: "Begin"
-author: "Matt Rechtien"
-date: "8/25/2021"
 ---
 
 ```{r setup, include=FALSE}
