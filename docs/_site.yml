@@ -1,0 +1,12 @@
+name: "begin"
+output_dir: "docs"
+navbar:
+  title: "Begin"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Next"
+    href: Begin.html
+output:
+  html_document:
+    theme: cosmo
